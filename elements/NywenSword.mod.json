@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "swords",
+    "customModelName": "Normal",
+    "name": "Nywen Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NywenModItem"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 6,
+    "efficiency": 4.0,
+    "attackSpeed": 0.2,
+    "enchantability": 18,
+    "damageVsEntity": 11.0,
+    "usageCount": 3031,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:NywenIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

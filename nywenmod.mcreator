@@ -1,0 +1,171 @@
+{
+  "mod_elements": [
+    {
+      "name": "NywenModItem",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nywen_mod_item"
+    },
+    {
+      "name": "NywenModBlock",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nywen_mod_block"
+    },
+    {
+      "name": "NywenModEgg",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nywen_mod_egg"
+    },
+    {
+      "name": "NywenIngot",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nywen_ingot"
+    },
+    {
+      "name": "Oree",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oree"
+    },
+    {
+      "name": "DZQqzd",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dz_qqzd"
+    },
+    {
+      "name": "NywenPickaxe",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nywen_pickaxe"
+    },
+    {
+      "name": "NywenSword",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nywen_sword"
+    },
+    {
+      "name": "Qdzdqd",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "qdzdqd"
+    },
+    {
+      "name": "Hoee",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoee"
+    },
+    {
+      "name": "Zqqdzq",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zqqdzq"
+    },
+    {
+      "name": "HammerBlockDestroyedWithTool",
+      "type": "procedure",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hammer_block_destroyed_with_tool",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Hammer",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hammer"
+    },
+    {
+      "name": "NywenArmor",
+      "type": "armor",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nywen_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabnywen_mod_block": "Nywen Mod Block",
+      "itemGroup.tabnywen_mod_item": "Nywen Mod Item",
+      "item.nywenmod.nywen_armor_chestplate": "Nywen Armor Body",
+      "item.nywenmod.qdzdqd": "Nywen Shovel",
+      "item.nywenmod.hoee": "Nywen Hoe",
+      "item.nywenmod.zqqdzq": "Nywen Axe",
+      "item.nywenmod.nywen_armor_boots": "Nywen Armor Boots",
+      "block.nywenmod.oree": "Nywen Ore",
+      "item.nywenmod.nywen_pickaxe": "Nywen Pickaxe",
+      "item.nywenmod.nywen_sword": "Nywen Sword",
+      "itemGroup.tabnywen_mod_egg": "Nywen Mod Egg",
+      "item.nywenmod.nywen_armor_helmet": "Nywen Armor Helmet",
+      "item.nywenmod.nywen_ingot": "Nywen Ingot",
+      "item.nywenmod.nywen_armor_leggings": "Nywen Armor Leggings",
+      "item.nywenmod.hammer": "Hammer"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "nywenmod",
+    "modName": "NywenMod",
+    "version": "1.0.0",
+    "description": "Mod de NywenMc",
+    "author": "Nozyx, Kamejiro",
+    "websiteURL": "https://nywenmc.ml",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "nywenmc_mod_logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Crée avec Nozyx et Kamejiro",
+    "modElementsPackage": "fr.nozyxandkamejiro.nywenmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}

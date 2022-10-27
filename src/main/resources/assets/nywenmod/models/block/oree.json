@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nywenmod:blocks/ore",
+    "up": "nywenmod:blocks/ore",
+    "north": "nywenmod:blocks/ore",
+    "east": "nywenmod:blocks/ore",
+    "south": "nywenmod:blocks/ore",
+    "west": "nywenmod:blocks/ore",
+    "particle": "nywenmod:blocks/ore"
+  }
+}

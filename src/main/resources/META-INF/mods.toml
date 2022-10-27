@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="nywenmod"
+version="1.0.0"
+displayName="NywenMod"
+credits="Crée avec Nozyx et Kamejiro"
+displayURL="https://nywenmc.ml"
+logoFile="logo.png"
+authors="Nozyx, Kamejiro"
+description='''
+Mod de NywenMc
+'''
+
+[[dependencies.nywenmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

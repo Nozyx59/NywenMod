@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "Nywen Mod Egg",
+    "icon": {
+      "value": "Items.ZOGLIN_SPAWN_EGG"
+    },
+    "showSearch": true
+  }
+}

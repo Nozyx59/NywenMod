@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "Nywen Mod Block",
+    "icon": {
+      "value": "CUSTOM:Oree"
+    },
+    "showSearch": true
+  }
+}

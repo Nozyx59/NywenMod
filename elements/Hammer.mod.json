@@ -1,0 +1,30 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "zdqzdzqdq",
+    "customModelName": "Normal",
+    "name": "Hammer",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NywenModItem"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 15.0,
+    "attackSpeed": 1.0,
+    "enchantability": 18,
+    "damageVsEntity": 4.0,
+    "usageCount": 3031,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "HammerBlockDestroyedWithTool"
+    }
+  }
+}
